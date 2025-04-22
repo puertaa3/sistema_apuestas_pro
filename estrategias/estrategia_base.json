@@ -1,0 +1,10 @@
+{
+  "nombre": "Estrategia Córners 10m",
+  "descripcion": "Ejemplo de estrategia de valor con martingala",
+  "stake_inicial": 10,
+  "cuota_minima": 1.50,
+  "usar_martingala": true,
+  "max_reintentos": 3,
+  "ligas_permitidas": ["Premier League", "LaLiga", "Serie A", "Bundesliga", "Ligue 1"],
+  "modo_prueba": false
+}
